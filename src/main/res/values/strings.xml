@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Airport Pickup Application</string>
+    <string name="flightCodeHint">Flight Code</string>
+    <string name="flightLandingTimeHint">Landing</string>
+    <string name="flightStatusHint">Status</string>
+    <string name="flightDelayHint">Delay</string>
+    <string name="google_maps_key">YOUR_API_KEY_GOES_HERE</string>
+    <string name="leavingTimeHint">Time</string>
+</resources>
